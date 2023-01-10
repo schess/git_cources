@@ -1,1 +1,0 @@
-sentences from hexlet
